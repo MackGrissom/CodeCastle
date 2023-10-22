@@ -12,7 +12,7 @@
 @import url("../styles/theme.css");
 
 body {
-  font-family: "Inter", "Space_Grotesque"; /* Sets the font family for the entire page */
+  font-family: "Inter", sans-serif /* Sets the font family for the entire page */
 }
 
 @layer utilities {
